@@ -1,21 +1,88 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AndresNavarrom/AndresNavarrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Andrés Navarro
 
-Here are some ideas to get you started:
+### Systems Engineering Student | Backend Developer | IoT Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 align="center">Hola 👋, soy Andrés</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;DDD+%26+IoT+Enthusiast;Cloud+%26+Software+Architecture;Always+Learning+New+Technologies" />
 
-<p align="center">
-  Apasionado por backend, IoT y arquitectura de software.
-</p>
+</div>
+
+---
+
+## 🚀 About Me
+
+💡 Passionate about backend development, software architecture, IoT systems and cloud technologies.  
+🎓 Systems Engineering student from Colombia.  
+🛠️ I enjoy building scalable applications, APIs and experimenting with new technologies.  
+📚 Currently learning more about:
+
+- Domain Driven Design (DDD)
+- Cloud Architecture
+- Microservices
+- IoT Platforms
+- DevOps & Containers
+
+---
+
+# 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,vue,js,html,css,docker,postgres,mysql,mongodb,aws,git,github,linux,vscode,visualstudio,postman&perline=7" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/TU_USUARIO">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/TU_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:TU_CORREO">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+```java
+while(alive){
+    eat();
+    code();
+    sleep();
+    repeat();
+}
