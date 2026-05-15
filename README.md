@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--><h1 align="center">Hola 👋, soy Andrés</h1>
+<h3 align="center">Estudiante de Ingeniería de Sistemas</h3>
+
+<p align="center">
+  Apasionado por backend, IoT y arquitectura de software.
+</p>
