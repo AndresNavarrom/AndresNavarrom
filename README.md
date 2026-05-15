@@ -35,16 +35,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
