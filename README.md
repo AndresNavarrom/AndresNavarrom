@@ -2,7 +2,7 @@
 
 # 👨‍💻 Andrés Navarro
 
-### Systems Engineering Student | Backend Developer | IoT Enthusiast
+### Systems Engineering Student | Backend Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;DDD+%26+IoT+Enthusiast;Cloud+%26+Software+Architecture;Always+Learning+New+Technologies" />
 
