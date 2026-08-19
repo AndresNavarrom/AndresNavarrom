@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:TU_CORREO">
+<a href="mailto:andresnavarromf5@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
