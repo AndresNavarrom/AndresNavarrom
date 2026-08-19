@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/AndresNavarrom">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
