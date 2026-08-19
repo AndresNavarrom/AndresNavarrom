@@ -52,15 +52,3 @@
 </a>
 
 </div>
-
----
-
-# ⚡ Fun Fact
-
-```java
-while(alive){
-    eat();
-    code();
-    sleep();
-    repeat();
-}
